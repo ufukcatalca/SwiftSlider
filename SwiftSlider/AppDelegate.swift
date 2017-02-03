@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftSlider
 //
-//  Created by ufuk çatalca on 02/02/2017.
+//  Created by UFuk Çatalca on 02/02/2017.
 //  Copyright © 2017 Slider. All rights reserved.
 //
 

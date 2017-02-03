@@ -300,6 +300,7 @@
 				4E81CE471E434E7A0081C08C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
